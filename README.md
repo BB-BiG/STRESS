@@ -1,4 +1,4 @@
-# STRSS
+# STRESS
 Short Tandem Repeat Seed Selection
 
 To compile the source code STRSS.c following command can be used
